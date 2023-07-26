@@ -36,7 +36,7 @@ public class GenericComparator implements Comparator, Serializable {
 	protected String targetMethod;
 	protected boolean sortAscending;
 
-	/**
+	/*****
 	 * <p>default constructor - assumes comparator for Type List</p>
 	 *
 	 * <p>For Example-</p>
