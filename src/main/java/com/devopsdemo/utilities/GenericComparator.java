@@ -105,7 +105,7 @@ public class GenericComparator implements Comparator, Serializable {
 		this.sortAscending = sortAscending;
 	}
 
-	/**
+	/*****
 	 * {@inheritDoc}
 	 */
 	public int compare(Object o1, Object o2) {
