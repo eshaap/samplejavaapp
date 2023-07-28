@@ -79,7 +79,7 @@ public class GenericComparator implements Comparator, Serializable {
 		this.sortAscending = true;
 	}
 
-	/**
+	/*****
 	 * <p>constructor with <code>sortField, sortAscending</code> parameter for Derived type of <code>Class</code></p>
 	 *
 	 * <p>For Example-</p>
